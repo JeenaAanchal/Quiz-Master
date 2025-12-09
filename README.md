@@ -1,2 +1,2 @@
-# Tech-Master
+# Quiz-Master
 Tech Master - a quiz platform.
